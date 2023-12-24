@@ -1,6 +1,6 @@
 function App() {
   return (
-    <h1>Some text</h1>
+    <h1>App React</h1>
   );
 }
 
