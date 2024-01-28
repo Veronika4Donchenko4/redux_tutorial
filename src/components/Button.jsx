@@ -1,3 +1,4 @@
-import { readConfigFile } from "typescript";
-
-readConfigFile
+const Button = () => {
+    console.log("button")
+}
+ Button();
